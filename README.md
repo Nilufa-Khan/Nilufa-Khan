@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi,  I'm Nilufa Khan .<br>👀 I’m interested in FrontEnd and Backend Developement<br>📫 👨‍💻 Most of my projects are available here.<br>📝 I am also active on LinkedIn.
+👋 Hi,  I'm Nilufa Khan .<br>👀 I’m interested in FrontEnd and Backend Developement<br>📫 👨‍💻 Most of my projects are available here.<br>📝 I am also active on <a href="https://www.linkedin.com/in/nilufakhan/">LinkedIn</a>
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilufa-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 
