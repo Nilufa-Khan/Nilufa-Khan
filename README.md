@@ -1,6 +1,6 @@
 💫 <br>
 Hi,  I'm Nilufa Khan .<br>👀 I’m interested in FrontEnd and Backend Developement<br>📫 Most of my projects are available here.<br> 👨‍💻 You Can Check my <a href="https://nilufa-khan.github.io/Her-Portfolio-main/">Portfolio</a><br>📝 I am also active on <a href="https://www.linkedin.com/in/nilufakhan/">LinkedIn</a>
-<br>LeetCode <a href="https://leetcode.com/Nilufa-Khan/"> LeetCode</a>
+<br><a href="https://leetcode.com/Nilufa-Khan/"> LeetCode</a><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Nilufa-Khan&label=Profile%20views&color=0e75b6&style=flat" alt="thuotracy" " /> </p>
 
 
